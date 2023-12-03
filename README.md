@@ -9,5 +9,5 @@
 - [ftpd](https://github.com/mtheall/ftpd/releases)
 
 ### empfohlene Discord-Server
-- [Aura-Discord](https://discord.com/invite/gPk7G6Z5PF) (Free-Sysbot)
+- [Aura-Discord](https://discord.com/invite/gPk7G6Z5PF) (Do you want to support me as a developer? then you are welcome to join my Discord server. Free Sysbot for Pokemon)
 
