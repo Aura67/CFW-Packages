@@ -1,6 +1,6 @@
 # CFW-Packages
 ## Install CFW for your Nintendo Switch (Online)
-### Software/apps used in the package:
+### Software/apps used in the Package:
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases/)
 - [Hekate](https://github.com/CTCaer/hekate/releases/)
 - [TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/releases)
