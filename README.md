@@ -6,6 +6,7 @@
 - [TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/releases)
 - [Homebrew-Appstore](https://github.com/fortheusers/hb-appstore/releases)
 - [Checkpoint](https://github.com/BernardoGiordano/Checkpoint/releases)
+- [JKSV](https://github.com/J-D-K/JKSV/releases)
 - [ftpd](https://github.com/mtheall/ftpd/releases)
 - [Payload Launcher](https://github.com/suchmememanyskill/Payload_Launcher/releases)
 
