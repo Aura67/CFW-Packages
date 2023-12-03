@@ -6,3 +6,8 @@
 - [TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/releases)
 - [Homebrew-Appstore](https://github.com/fortheusers/hb-appstore/releases)
 
+
+
+### empfohlene Discord-Server
+- [Aura-Discord](https://discord.com/invite/gPk7G6Z5PF) (Free-Sysbot)
+
