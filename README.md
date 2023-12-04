@@ -19,6 +19,7 @@
 - Thanks to @mtheall for the ftpd
 - Thanks to @suchmememanyskill for the Payload_Laucher
 - Thanks to @cathery for the sys-ftpd-light
+- Thanks to @exelix11 for the SysDVR 
  -----------------------------------------------------------------------------------
 # CFW-Packages
 ## Install CFW for your Nintendo Switch (Online)
@@ -35,6 +36,7 @@
 - [Payload Launcher](https://github.com/suchmememanyskill/Payload_Launcher/releases)
 - [sys-botbase](https://github.com/olliz0r/sys-botbase/releases)
 - [sys-ftpd-light](https://github.com/cathery/sys-ftpd/releases)
+- [SysDVR](https://github.com/exelix11/SysDVR/releases)
  -----------------------------------------------------------------------------------
   ### Support Discord Developer
 - [Aura-Discord](https://discord.com/invite/gPk7G6Z5PF) (Do you want to support me as a Developer? then you are welcome to join my Discord server. Free Sysbot for Pokemon
