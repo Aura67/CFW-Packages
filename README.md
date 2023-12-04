@@ -1,3 +1,7 @@
+- #Thanks to @SciresM for the Atmosphere
+- #Thanks to @CTCaer for the Hekate   
+- #Thanks to @Berichan for the Sysbotbase
+
 # CFW-Packages
 ## Install CFW for your Nintendo Switch (Online)
 ### Software/apps used in the Package:
