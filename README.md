@@ -4,8 +4,7 @@
 - #3: Extract my download with winrar or 7zip
 - #4: Copy the entire contents to your root directory on your memory card
 - #5: Put your memory card back into your Nintendo Switch and start it with playload
-- #6 done
-  -----------------------------------------------------------------------------------
+- -----------------------------------------------------------------------------------
 - #Thanks to @SciresM for the Atmosphere
 - #Thanks to @CTCaer for the Hekate   
 - #Thanks to @fincs for the nx-hbloader
