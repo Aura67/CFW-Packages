@@ -12,6 +12,7 @@
 - [ftpd](https://github.com/mtheall/ftpd/releases)
 - [Payload Launcher](https://github.com/suchmememanyskill/Payload_Launcher/releases)
 - [sys-botbase](https://github.com/olliz0r/sys-botbase/releases)
+- [sys-ftpd-light](https://github.com/cathery/sys-ftpd/releases)
 
 
 ### Support Discord Developer
