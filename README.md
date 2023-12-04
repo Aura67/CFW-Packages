@@ -3,6 +3,9 @@
 - #Thanks to @fincs for the nx-hbloader
 - #Thanks to @yellows8 and @WinterMute for the nx-hbmenu
 - #Thanks to @Berichan for the Sysbotbase    
+- #Thanks to @suchmememanyskill for the TegraExplorer 
+- #Thanks to @vgmoose for the hb-appstore
+- #Thanks to @BernardoGiordano for the Checkpoint 
 
 # CFW-Packages
 ## Install CFW for your Nintendo Switch (Online)
@@ -22,5 +25,5 @@
 
 
 ### Support Discord Developer
-- [Aura-Discord](https://discord.com/invite/gPk7G6Z5PF) (Do you want to support me as a developer? then you are welcome to join my Discord server. Free Sysbot for Pokemon)
+- [Aura-Discord](https://discord.com/invite/gPk7G6Z5PF) (Do you want to support me as a Developer? then you are welcome to join my Discord server. Free Sysbot for Pokemon)
 
