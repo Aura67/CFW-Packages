@@ -35,5 +35,9 @@
 - [sys-ftpd-light](https://github.com/cathery/sys-ftpd/releases)
  -----------------------------------------------------------------------------------
   ### Support Discord Developer
-- [Aura-Discord](https://discord.com/invite/gPk7G6Z5PF) (Do you want to support me as a Developer? then you are welcome to join my Discord server. Free Sysbot for Pokemon)
+- [Aura-Discord](https://discord.com/invite/gPk7G6Z5PF) (Do you want to support me as a Developer? then you are welcome to join my Discord server. Free Sysbot for Pokemon
+   -----------------------------------------------------------------------------------
+  #do you have any questions for me? then feel free to ask me!
+
+
 
