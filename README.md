@@ -5,7 +5,11 @@
 - #Thanks to @Berichan for the Sysbotbase    
 - #Thanks to @suchmememanyskill for the TegraExplorer 
 - #Thanks to @vgmoose for the hb-appstore
-- #Thanks to @BernardoGiordano for the Checkpoint 
+- #Thanks to @BernardoGiordano for the Checkpoint
+- #Thanks to @J-D-K for the JKSV
+- #Thanks to @mtheall for the ftpd
+- #Thanks to @suchmememanyskill for the Payload_Laucher
+- #Thanks to @cathery for the sys-ftpd-light
 
 # CFW-Packages
 ## Install CFW for your Nintendo Switch (Online)
