@@ -1,4 +1,4 @@
-- All payloads are in the Bootloader folder ----> payloads copy fusee.bin and hekate_ctcaer_6.0.7.bin to your computer. But I always adapt the packages to the new update, so wait for an update from me!
+- All payloads are in the Bootloader folder ----> payloads copy fusee.bin and hekate_ctcaer.bin to your Computer. But I always adapt the packages to the new update, so wait for an update from me!
   -------------------------------------------------------------------------------------
      How to install my Cfw package!
 - 1: To do this, insert your Memory Card into your Computer
