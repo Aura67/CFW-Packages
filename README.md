@@ -1,6 +1,8 @@
 - #Thanks to @SciresM for the Atmosphere
 - #Thanks to @CTCaer for the Hekate   
-- #Thanks to @Berichan for the Sysbotbase
+- #Thanks to @fincs for the nx-hbloader
+- #Thanks to @yellows8 and @WinterMute for the nx-hbmenu
+- #Thanks to @Berichan for the Sysbotbase    
 
 # CFW-Packages
 ## Install CFW for your Nintendo Switch (Online)
