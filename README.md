@@ -45,7 +45,7 @@ All payloads are in the Bootloader folder ----> payloads copy fusee.bin and heka
 - [SysDVR](https://github.com/exelix11/SysDVR/releases)
 
   ### Support Discord Developer
-- [Aura-Discord](https://discord.com/invite/gPk7G6Z5PF) (Do you want to support me as a Developer? then you are welcome to join my Discord server. Free Sysbot for Pokemon
+- [Aura-Discord]([Discord](https://discord.gg/Kz78AQhBQw) (Do you want to support me as a Developer? then you are welcome to join my Discord server. Free Sysbot for Pokemon
   
   Do you have any questions for me? then feel free to ask me!
 
