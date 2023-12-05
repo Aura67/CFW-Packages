@@ -1,9 +1,9 @@
-- All payloads are in the Bootloader folder ----> payloads copy fusee.bin and hekate_ctcaer.bin to your Computer. But I always adapt the packages to the new update, so wait for an update from me!
+All payloads are in the Bootloader folder ----> payloads copy fusee.bin and hekate_ctcaer.bin to your Computer. But I always adapt the packages to the new update, so wait for an update from me!
 
 ## Download the lastet CFW Package 
 [Download latest releases from the page.](https://github.com/Aura67/CFW-Packages-/releases)
 
-  How to install my Cfw package?
+  # How to Install my CFW Package?
   
 - 1: To do this, insert your Memory Card into your Computer
 - 2: go to my latest releases and download it
@@ -11,7 +11,7 @@
 - 4: Copy the entire contents to your root directory on your memory card
 - 5: Put your memory card back into your Nintendo Switch and start it with playload
 
-#CREDIT 
+# CREDIT
 
 - Thanks to @SciresM for the Atmosphere
 - Thanks to @CTCaer for the Hekate   
@@ -26,7 +26,7 @@
 - Thanks to @suchmememanyskill for the Payload_Laucher
 - Thanks to @cathery for the sys-ftpd-light
 - Thanks to @exelix11 for the SysDVR 
- -----------------------------------------------------------------------------------
+
 # CFW-Packages
 ## Install CFW for your Nintendo Switch (Online)
 ### Software/apps used in the Package:
@@ -43,10 +43,10 @@
 - [sys-botbase](https://github.com/olliz0r/sys-botbase/releases)
 - [sys-ftpd-light](https://github.com/cathery/sys-ftpd/releases)
 - [SysDVR](https://github.com/exelix11/SysDVR/releases)
- -----------------------------------------------------------------------------------
+
   ### Support Discord Developer
 - [Aura-Discord](https://discord.com/invite/gPk7G6Z5PF) (Do you want to support me as a Developer? then you are welcome to join my Discord server. Free Sysbot for Pokemon
-   -----------------------------------------------------------------------------------
+  
   Do you have any questions for me? then feel free to ask me!
 
 
