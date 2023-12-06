@@ -4,7 +4,7 @@ All payloads are in the Bootloader folder ----> payloads copy fusee.bin and heka
 [Download latest releases from the page.](https://github.com/Aura67/CFW-Packages-/releases)
 
 # Note: If there are any problems with my CFW Package then you can simply open an issue!
-- If you have any other questions then just ask me and feel free
+### - If you have any other questions then just ask me and feel free
 
 # How to Install my CFW Package?
   
