@@ -4,6 +4,7 @@ All payloads are in the Bootloader folder ----> payloads copy fusee.bin and heka
 [Download latest releases from the page.](https://github.com/Aura67/CFW-Packages-/releases)
 
 # Note: If there are any problems with my CFW Package then you can simply open an issue!
+- If you have any other questions then just ask me and feel free
 
 # How to Install my CFW Package?
   
@@ -49,7 +50,6 @@ All payloads are in the Bootloader folder ----> payloads copy fusee.bin and heka
   ### Support Discord Developer
 - [Aura-Discord]([Discord](https://discord.gg/Kz78AQhBQw) (Do you want to support me as a Developer? then you are welcome to join my Discord server. Free Sysbot for Pokemon
   
-  Do you have any questions for me? then feel free to ask me!
 
 
 
