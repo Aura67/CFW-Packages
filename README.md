@@ -3,7 +3,9 @@ All payloads are in the Bootloader folder ----> payloads copy fusee.bin and heka
 ## Download the lastet CFW Package 
 [Download latest releases from the page.](https://github.com/Aura67/CFW-Packages-/releases)
 
-  # How to Install my CFW Package?
+# Note: If there are any problems with my CFW Package then you can simply open an issue!
+
+# How to Install my CFW Package?
   
 - 1: To do this, insert your Memory Card into your Computer
 - 2: go to my latest releases and download it
