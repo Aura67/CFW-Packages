@@ -5,7 +5,7 @@
 ![Hekate](https://github.com/Aura67/CFW-Packages/assets/152577275/ed7fa56c-22b3-444d-9086-cb10eb0948b8)
 
 ## Download the lastet CFW Package 
-- [Download latest releases from me.](https://github.com/Aura67/CFW-Packages-/releases)
+- [Download latest releases from me](https://github.com/Aura67/CFW-Packages-/releases)
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases/) 
 - [Hekate](https://github.com/CTCaer/hekate/releases/)
 
