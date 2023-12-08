@@ -1,7 +1,13 @@
-All payloads are in the Bootloader folder ----> payloads copy fusee.bin and hekate_ctcaer.bin to your Computer. But I always adapt the packages to the new update, so wait for an update from me!
+# All payloads are in the Bootloader folder ----> payloads copy fusee.bin and hekate_ctcaer.bin to your Computer. But I always adapt the packages to the new update, so wait for an update from me!
+
+![Atmospehre](https://github.com/Aura67/CFW-Packages/assets/152577275/a40f7671-5e65-42ad-8934-5ba3105eae42)
+
+![Hekate](https://github.com/Aura67/CFW-Packages/assets/152577275/ed7fa56c-22b3-444d-9086-cb10eb0948b8)
 
 ## Download the lastet CFW Package 
-[Download latest releases from the page.](https://github.com/Aura67/CFW-Packages-/releases)
+- [Download latest releases from the page.](https://github.com/Aura67/CFW-Packages-/releases)
+- [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases/) 
+- [Hekate](https://github.com/CTCaer/hekate/releases/)
 
 # Note: If there are any problems with my CFW Package then you can simply open an issue!
 ## - If you have any other questions then just ask me and feel free
