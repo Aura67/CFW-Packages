@@ -6,6 +6,7 @@
 
 ## Download the lastet CFW Package 
 - [Download latest releases from me](https://github.com/Aura67/CFW-Packages-/releases)
+- [latest Firmware](https://github.com/Aura67/Switch-Firmware/releases)
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases/) 
 - [Hekate](https://github.com/CTCaer/hekate/releases/)
 
