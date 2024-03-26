@@ -11,10 +11,10 @@
 - [Hekate](https://github.com/CTCaer/hekate/releases/)
 
 # Note: If there are any problems with my CFW Package then you can simply open an issue!
-## - If you have any other questions then just ask me and feel free
+- If you have any other questions then just ask me and feel free
 
 # Piracy is not supported
-## I will never support Piracy because I am not a fan of stealing anything
+- I will never support Piracy because I am not a fan of stealing anything
 
 # How to Install my CFW Package?
   
